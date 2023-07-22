@@ -1,0 +1,27 @@
+body {
+    background-color: coral;
+}
+
+img{
+    height: 500px;
+    width:500px;
+}
+.nature-img{
+    border: 5px solid white;
+    width=100%
+
+    
+}
+
+.Quotation {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: #FFFFFF;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
